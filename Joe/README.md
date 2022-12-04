@@ -2,10 +2,9 @@
 
 > 一款基于Typecho博客的单栏主题
 
-- 下载链接：https://github.com/i55top/Andy
-- 原创：https://78.al
+- 作者博客：https://i55.top
 - 改编：https://i55.top
-- 参考：https://xwsir.cn
+- 原创：https://78.al
 - 主题宗旨：简洁、超强、开源、精华
 
 #### 主题变化:
