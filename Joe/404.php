@@ -21,7 +21,7 @@
 		<div class="joe_container">
 			<div class="joe_main">
                 <section class="joe_adaption">
-				<h1>糟糕，网页去外太空了！</h1>
+		<h1 style="text-align: center;padding: 30px;">糟糕，网页去外太空了！</h1>
                 </section>
 			</div>
 		</div>
