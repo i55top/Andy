@@ -22,7 +22,7 @@
 <link rel="stylesheet" href="<?php $this->options->themeUrl('assets/css/joe.responsive.min.css?v=7.3.7@1.2.2'); ?>">
 <link rel="stylesheet" href="<?php $this->options->themeUrl('assets/css/qmsg.css'); ?>">
 <link rel="stylesheet" href="<?php $this->options->themeUrl('assets/css/jquery.fancybox.min.css'); ?>" />
-<link rel="stylesheet" href="<?php $this->options->themeUrl('assets/css/font-awesome.min.css'); ?>" />
+<link rel="stylesheet" href="https://lib.baomitu.com/font-awesome/4.7.0/css/font-awesome.min.css" />
 <link rel="stylesheet" href="<?php $this->options->themeUrl('assets/css/APlayer.min.css'); ?>" />
 <link rel="stylesheet" href="<?php $this->options->themeUrl('assets/css/font_1159885_syvp0if9gpm.css'); ?>">
 <script src="<?php $this->options->themeUrl('assets/js/jquery.min.js'); ?>"></script>
