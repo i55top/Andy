@@ -1,6 +1,6 @@
 ## Andy
 
-> 一款基于Typecho博客的单栏主题
+> 一款改编自Joe的Typecho单栏主题
 
 - 作者博客：https://i55.top
 - 改编：https://i55.top
