@@ -16,22 +16,22 @@
 <?php else : ?>
 	<?php $this->header(); ?>
 <?php endif; ?>
-<link rel="stylesheet" href="<?php $this->options->themeUrl('assets/css/joe.mode.min.css?v=7.3.7@1'); ?>">
-<link rel="stylesheet" href="<?php $this->options->themeUrl('assets/css/joe.normalize.min.css?v=7.3.7@1'); ?>">
-<link rel="stylesheet" href="<?php $this->options->themeUrl('assets/css/joe.global.min.css?v=7.3.7@1.6.12'); ?>">
-<link rel="stylesheet" href="<?php $this->options->themeUrl('assets/css/joe.responsive.min.css?v=7.3.7@1.2.2'); ?>">
-<link rel="stylesheet" href="<?php $this->options->themeUrl('assets/css/qmsg.css'); ?>">
-<link rel="stylesheet" href="<?php $this->options->themeUrl('assets/css/jquery.fancybox.min.css'); ?>" />
-<link rel="stylesheet" href="<?php $this->options->themeUrl('assets/css/font-awesome.min.css'); ?>" />
-<link rel="stylesheet" href="<?php $this->options->themeUrl('assets/css/APlayer.min.css'); ?>" />
-<link rel="stylesheet" href="<?php $this->options->themeUrl('assets/css/font_1159885_syvp0if9gpm.css'); ?>">
-<script src="<?php $this->options->themeUrl('assets/js/jquery.min.js'); ?>"></script>
-<script src="<?php $this->options->themeUrl('assets/js/joe.scroll.js'); ?>"></script>
-<script src="<?php $this->options->themeUrl('assets/js/lazysizes.min.js'); ?>"></script>
-<script src="<?php $this->options->themeUrl('assets/js/APlayer.min.js'); ?>"></script>
-<script src="<?php $this->options->themeUrl('assets/js/jquery.fancybox.min.js'); ?>"></script>
-<script src="<?php $this->options->themeUrl('assets/js/joe.extend.min.js'); ?>"></script>
-<script src="<?php $this->options->themeUrl('assets/js/qmsg.js'); ?>"></script>
-<script src="<?php $this->options->themeUrl('assets/js/joe.global.min.js?v=7.3.7@1.1.2'); ?>"></script>
-<script src="<?php $this->options->themeUrl('assets/js/joe.short.min.js?v=7.3.7@1'); ?>"></script>
+<link rel="stylesheet" href="<?php $this->options->themeUrl('assets/css/joe.mode.min.css'); ?>">
+<link rel="stylesheet" href="<?php $this->options->themeUrl('assets/css/joe.normalize.min.css'); ?>">
+<link rel="stylesheet" href="<?php $this->options->themeUrl('assets/css/joe.global.min.css'); ?>">
+<link rel="stylesheet" href="<?php $this->options->themeUrl('assets/css/joe.responsive.min.css'); ?>">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/i55top/Andy@Andy1.02/Joe/assets/css/qmsg.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/i55top/Andy@Andy1.02/Joe/assets/css/jquery.fancybox.min.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/i55top/Andy@Andy1.02/Joe/assets/css/font-awesome.min.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/i55top/Andy@Andy1.02/Joe/assets/css/APlayer.min.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/i55top/Andy@Andy1.02/Joe/assets/css/font_1159885_syvp0if9gpm.css">
+<script src="https://cdn.jsdelivr.net/gh/i55top/Andy@Andy1.02/Joe/assets/js/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/i55top/Andy@Andy1.02/Joe/assets/js/joe.scroll.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/i55top/Andy@Andy1.02/Joe/assets/js/lazysizes.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/i55top/Andy@Andy1.02/Joe/assets/js/APlayer.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/i55top/Andy@Andy1.02/Joe/assets/js/jquery.fancybox.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/i55top/Andy@Andy1.02/Joe/assets/js/joe.extend.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/i55top/Andy@Andy1.02/Joe/assets/js/qmsg.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/i55top/Andy@Andy1.02/Joe/assets/js/joe.global.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/i55top/Andy@Andy1.02/Joe/assets/js/joe.short.min.js"></script>
 <?php $this->options->JCustomHeadEnd() ?>
